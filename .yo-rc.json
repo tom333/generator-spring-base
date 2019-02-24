@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Thomas Guyader",
+      "authorEmail": "",
+      "authorUrl": ""
+    }
+  }
+}
